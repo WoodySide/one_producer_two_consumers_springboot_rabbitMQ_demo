@@ -1,0 +1,1 @@
+## **_Spring Boot + RabbitMQ (fanout topology) demo app_**
